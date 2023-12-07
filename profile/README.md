@@ -3,7 +3,7 @@ Welcome to our Github. This github is the repository for both BIUK and BISK soft
 
 Visit the Github website: <kbd>[GITHUB](https://brother-industries-uk-ltd.github.io/)</kbd> 
 
-Visit BIUK website: <kbd>[BIUK](www.biuk.co.uk)</kbd> 
+Visit BIUK website: <kbd>[BIUK](https://www.biuk.co.uk)</kbd> 
 
 Visit BISK website: <kbd>[BISK](https://brother-slovakia.sk/)</kbd>
 
