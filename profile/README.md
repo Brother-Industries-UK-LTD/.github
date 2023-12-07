@@ -1,6 +1,13 @@
 # Brother-Industries-UK-LTD Github
 Welcome to our Github. This github is the repository for both BIUK and BISK software development. We are part of the brother group. View the factories in more detail below.
 
+Visit the Github website: <kbd>[GITHUB](https://brother-industries-uk-ltd.github.io/)</kbd> 
+
+Visit BIUK website: <kbd>[BIUK](www.biuk.co.uk)</kbd> 
+
+Visit BISK website: <kbd>[BISK](https://brother-slovakia.sk/)</kbd>
+
+
 ## Brother Industries UK (BIUK).
 Located in Wrexham, North Wales, Brother Industries (U.K.) Ltd. is the Recycling Technology Centre for the Brother Group, striving to achieve environmental excellence and providing services and solutions to production and sales facilities around the world.
 
